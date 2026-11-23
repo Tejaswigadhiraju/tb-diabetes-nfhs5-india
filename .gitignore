@@ -1,0 +1,36 @@
+# raw DHS data and the boundary file: never upload (DHS terms of use)
+Raw_data_women/
+Raw_data_men/
+Raw_data_household/
+
+# cleaned person-level data made by the scripts
+Clean_data/*
+!Clean_data/.gitkeep
+!Clean_data/README.md
+
+# results made by the scripts (tables and figures stay on your computer)
+Tables/*
+!Tables/.gitkeep
+!Tables/README.md
+Figures/*
+!Figures/.gitkeep
+!Figures/README.md
+
+# R files that should not be shared
+.Rhistory
+.RData
+.Rproj.user/
+.Ruserdata
+*.rds
+
+# lists of column names written by script 01
+women_column_list.txt
+men_column_list.txt
+
+# os files
+.DS_Store
+Thumbs.db
+~$*
+
+# stray plot file R can create when scripts run outside RStudio
+Rplots.pdf
