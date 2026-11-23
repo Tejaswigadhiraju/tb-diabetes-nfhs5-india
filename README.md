@@ -12,19 +12,12 @@ India carries around 25% of the world's TB burden and also has a growing number 
 2. What are the independent and joint relationships of diabetes and tobacco use with TB?
 3. How do these associations vary across socioeconomic profiles?
 
+## Objectives
 
-
-**Objectives:**
-
-1\. To estimate weighted national and state-level prevalence of TB, diabetes and their co-occurrence.
-
-2\. To assess the independent associations of diabetes and tobacco use with TB using survey-weighted logistic regression.
-
-3\. To evaluate the mutually adjusted and interaction effects of diabetes and tobacco use on TB.
-
-4\. To determine socioeconomic inequalities using concentration indices and stratified analyses by wealth, education, residence, sex and state.
-
-
+1. To estimate weighted national and state-level prevalence of TB, diabetes and their co-occurrence.
+2. To assess the independent associations of diabetes and tobacco use with TB using survey-weighted logistic regression.
+3. To evaluate the mutually adjusted and interaction effects of diabetes and tobacco use on TB.
+4. To determine socioeconomic inequalities using concentration indices and stratified analyses by wealth, education, residence, sex and state.
 
 Additional analyses: Beyond these objectives, I also tested whether the diabetes-TB association differs by wealth and residence, calculated the odds ratio for diabetes within each tobacco category, and ran sensitivity analyses with rescaled weights, and the relative excess risk due to interaction (RERI).
 
